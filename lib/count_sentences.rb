@@ -1,6 +1,7 @@
 require 'pry'
 
-class String puts "Hi, my name is Sophie."
+class String
+  
   def sentence?
     
   end
