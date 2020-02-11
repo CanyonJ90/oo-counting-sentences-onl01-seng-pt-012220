@@ -3,9 +3,9 @@ require 'pry'
 class String
   
   def sentence?
-    puts"Hi, my name is Sophie.
-  end"
-
+  "HI!".end_with?("!")
+  end
+  
   def question?
 
   end
