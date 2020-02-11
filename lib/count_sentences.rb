@@ -1,7 +1,7 @@
 require 'pry'
 
 class String
-  "Hi, my name is Sophie."
+ puts "Hi, my name is Sophie."
   def sentence?
     
   end
